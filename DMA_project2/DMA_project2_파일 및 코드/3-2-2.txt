@@ -1,0 +1,36 @@
+User ID 1036252 top-10 results
+Item ID Social media marketing	score 1.4008372143760182
+Item ID Creating social proof	score 1.3912971492063038
+Item ID Dropshipping	score 1.3849838923832252
+Item ID Finding and adding products	score 1.3592764338565981
+Item ID Customer support	score 1.2583946393153698
+Item ID Content marketing	score 1.2580031114945793
+Item ID Ads and retargeting	score 1.2133116266401773
+Item ID Reporting	score 1.1372555519379615
+Item ID Sales analytics	score 1.089657772758128
+Item ID Finances	score 1.0872772476209154
+
+User ID 33000424 top-10 results
+Item ID Customer support	score 1.6345268265535464
+Item ID Social media Integrations	score 1.4953982208768455
+Item ID Navigation and search	score 1.4673339099220692
+Item ID Finding and adding products	score 1.4619199947842776
+Item ID Inventory management	score 1.4233515779299792
+Item ID Creating social proof	score 1.394790025754334
+Item ID Dropshipping	score 1.3404879209755232
+Item ID Content marketing	score 1.324953265935402
+Item ID Social media marketing	score 1.3202080980524684
+Item ID Productivity	score 1.2923042209742401
+
+User ID 583814 top-10 results
+Item ID Customer retention	score 1.7080788478312436
+Item ID Productivity	score 1.516331301186101
+Item ID Cart customization	score 1.5021820127326373
+Item ID Images and videos	score 1.5002314445994007
+Item ID Sales and discounts	score 1.3783538393027361
+Item ID Inventory management	score 1.3099592695404405
+Item ID Navigation and search	score 1.2285179870280998
+Item ID Content marketing	score 1.221240808835904
+Item ID Ads and retargeting	score 1.1860473517640424
+Item ID Dropshipping	score 1.1709098295387257
+
